@@ -78,8 +78,8 @@ Change these to model different markets.
 
 ---
 
-## Part of
+## Also see
 
-→ [Bertrand Competition — Nash Equilibrium Simulation](https://github.com/arthashaastra/pricing-strategies)
+→ [Bertrand Competition — Nash Equilibrium Simulation](https://github.com/arthashaastra/game-theory-saas-pricing)
 
 *Arthashaastra | Applied Economics & Market Strategy*
