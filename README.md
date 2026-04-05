@@ -1,1 +1,0 @@
-# cournot-vs-bertrand-welfare-sim
